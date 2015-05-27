@@ -1,0 +1,1 @@
+Data profiling tool in Python.  Web admin interface in Django and a desktop application interface using PyQT.
